@@ -1,0 +1,65 @@
+menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: black;
+}
+
+.link {
+    font-size: 25px;
+}
+
+#img1 {
+    border-radius: 50%;
+    width: 450px;
+}
+
+body {
+    text-align: center
+}
+
+#p1 {
+    font-size: 20px;
+}
+
+#welcome {
+    background: linear-gradient(#F44336 0%, #E91E63 50%, #9C27B0 100%)
+}
+
+.line {
+    color: black;
+    width: 50px;
+}
+img2{
+    width:450px;
+}
+#r{
+    font-size:20px;
+}
+html{
+    scroll-behavior: smooth;
+}
+#img3{
+    width:450px;
+}
+#img4{
+    width:450px;
+}
+#lbl2{
+    font-size: 25px;
+}
+.links:hover{
+    background-color: darkcyan;
+}
+#img5{
+    width:450px;
+}
+#myname{
+    color: black;
+}
+#an{
+    background-color: beige;
+}
